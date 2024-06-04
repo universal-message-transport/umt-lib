@@ -2,7 +2,6 @@
   "name": "umt-lib",
   "version": "0.0.2",
   "description": "Universal message transport library",
-  "main": "index.js",
   "module": "./lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
